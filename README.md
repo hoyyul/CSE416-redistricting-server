@@ -3,7 +3,10 @@ This project serves as a backend system designed for the process of redistrictin
 
 # Technology
 Java (for backend)
+
 Python (for Algorithm)
+
 Java Spring(for Client-server interaction)
+
 Mysql
 
